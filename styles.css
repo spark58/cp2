@@ -1,0 +1,40 @@
+.box {
+  text-align: center;
+  font-family: 'Caveat';
+  font-size: 23px;
+  color: white;
+}
+
+.space {
+  margin-top: 3%;
+  margin-bottom: 3%;
+}
+
+.menu_title {
+  margin-bottom: 3%;
+  font-family: 'Caveat'!important;
+  font-size: 50px;
+  color: white;
+}
+
+#result {
+  text-align: center;
+  font-family: 'Patrick Hand';
+  font-size: 25px;
+  color: white;
+}
+
+#search {
+  font-family: 'Caveat';
+}
+
+body {
+  background-image: url("test.jpg");
+  background-size: 100%;
+  /*background-repeat: no-repeat;*/
+}
+
+footer {
+  color: white;
+  font-family: 'Patrick Hand';  
+}
